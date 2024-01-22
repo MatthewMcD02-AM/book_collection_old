@@ -1,0 +1,30 @@
+
+---
+ar_internal_metadata:
+  columns:
+  - key
+  - value
+  - created_at
+  - updated_at
+  records: 
+  - - environment
+    - development
+    - 2024-01-22 18:41:26.945811000 Z
+    - 2024-01-22 18:41:26.945811000 Z
+
+---
+books:
+  columns:
+  - id
+  - title
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - Eragon
+    - 2024-01-22 18:44:08.245194000 Z
+    - 2024-01-22 18:44:08.245194000 Z
+  - - 2
+    - Eldest
+    - 2024-01-22 18:48:00.186783000 Z
+    - 2024-01-22 18:48:00.186783000 Z
